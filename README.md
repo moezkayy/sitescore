@@ -4,6 +4,8 @@
 
 **Paste a website address and get a graded health report in about 30 seconds**, covering security, SEO, speed, accessibility, mobile, content and technical health. Built for small-business owners: each of the seven areas is framed as the question they'd actually ask (*"Can visitors trust it?"*, *"Does it work on a phone?"*), and every problem comes with a fix that has been tested in code.
 
+**▶ Live: [sitescore.moezkayy.com](https://sitescore.moezkayy.com)** · [Project story](https://moezkayy.com/projects/sitescore/)
+
 > 🔒 **Source is private.** This repo is the public face of the project: what it does, how it looks, how it's built and the engineering decisions behind it. I'm happy to walk through the code in an interview.
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?logo=nextdotjs&logoColor=white)
@@ -125,7 +127,7 @@ Each area starts at 100 and loses points according to the severity of its findin
 
 ## Status
 
-Feature-complete as a product. The remaining work is hosting: moving report storage from local disk to a real store, and deploying to a host that can run Chrome.
+Live at **[sitescore.moezkayy.com](https://sitescore.moezkayy.com)**. Next up: moving report storage from local disk to a shared store so it can scale past one instance.
 
 ---
 
